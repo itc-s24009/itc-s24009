@@ -8,6 +8,10 @@
 - **所属**: ITカレッジ沖縄　ITスペシャリスト科　情報工学コース　
 - **生年月日**: 2005年 10月 28日
 
+## 💬 Comments
+ITを使い、人々の役に立つような作品を作りたい。Web、アプリケーション開発に興味があり、独学でも勉強中。
+様々な人との交流をし、自身のスキルアップと、他者への貢献を目標に頑張りたい。
+
 ---
 
 
@@ -29,5 +33,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 </p>
-
 ---
