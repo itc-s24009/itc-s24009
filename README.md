@@ -34,3 +34,11 @@ ITを使い、人々の役に立つような作品を作りたい。Web、アプ
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
 </p>
 ---
+
+## 制作物
+
+### Honkai: Star Rail Build Checker
+
+-   **概要**: APIを使ったゲーム内のプロフィールを表示するサイト
+-   **使用技術**: Node.js,Type script,MiHoMo API
+-   **GitHub**: [https://github.com/itc-s24009/star_kadai](https://github.com/itc-s24009/star_kadai)
