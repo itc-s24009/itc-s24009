@@ -42,3 +42,10 @@ ITを使い、人々の役に立つような作品を作りたい。Web、アプ
 -   **概要**: APIを使ったゲーム内のプロフィールを表示するサイト
 -   **使用技術**: Node.js,Type script,MiHoMo API
 -   **GitHub**: [https://github.com/itc-s24009/star_kadai](https://github.com/itc-s24009/star_kadai)
+
+  
+### X-AI-Navigator
+
+-   **概要**: AIが100%コード生成した、X (旧Twitter) をキーボードで操作するユーザースクリプト
+-   **使用技術**: JavaScript, Google Gemini, Tampermonkey
+-   **GitHub**: [https://github.com/itc-s24009/X-s_tool](https://github.com/itc-s24009/X-s_tool)
