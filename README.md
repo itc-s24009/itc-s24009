@@ -35,6 +35,16 @@ ITを使い、人々の役に立つような作品を作りたい。Web、アプ
 </p>
 ---
 
+
+### 🏆 取得検定
+- SEA/J Certified Security Basic Master
+- CompTIA IT Fundamentals(ITF+)
+- インターネット検定 ドットコムマスター ベーシック
+- サーティファイ 実践プログラミング技術者試験 Python部門 Gold (Level 4)
+- サーティファイ コミュニケーション検定 初級
+- サーティファイ Javaプログラミング能力認定試験 3級
+
+
 ## 制作物
 
 ### Honkai: Star Rail Build Checker
