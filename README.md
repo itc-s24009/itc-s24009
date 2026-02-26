@@ -66,3 +66,9 @@ ITを使い、人々の役に立つような作品を作りたい。Web、アプ
 -   **使用技術**: Next.js (App Router), TypeScript, microCMS, CSS Modules
 -   **GitHub**: https://github.com/itc-s24009/FrontKadai
 
+
+### Digital Work Book 
+-   **概要**: ブラウザ上で単語カードを再現。手軽に暗記の勉強を可能にしたサイト
+-   **使用技術**: Next.js (App Router), TypeScript, Neon (PostgreSQL), Prisma,  NextAuth.js (Googleログイン)
+-   **GitHub**: https://github.com/itc-s24009/workbooks
+
